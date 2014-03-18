@@ -20,9 +20,6 @@ Lag Measures:
         Target: (faster than baseline - last year)
 
 Process: 
-Incident Management (IM) is the process for dealing with all Incidents. This includes service failures reported by end users, by technical staff, or automatically detected and reported by event monitoring tools. The adopted population can describe the process with greater than 35% accuracy when sampled. 
-
-The basic process steps of Incident Management are:
 
     1. The incident is detected and recorded
     2. The incident is classified and initial support is provided
@@ -30,9 +27,7 @@ The basic process steps of Incident Management are:
     4. Resolution is determined and recovery begins
     5. The incident is resolved
 
-People: The adopted population can identify and describe their roles with greater than 35% accuracy when sampled. 
-
-The following roles are the minimum required:
+Roles and Responsibilities:
 
     Incident assignee
         The person assigned to do the work of the process record that is assigned to them. This person is responsible for updating the record and ensuring the accuracy and completeness of the record. This person is also responsible for creating and coordinating any tasks that may be associated with the record.
