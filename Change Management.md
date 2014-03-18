@@ -1,9 +1,44 @@
 Service Management > Service Transition > Change Management
 
-Objectives:
 
-Record and coordinate changes in order to reduce impact of changes to the organization.
-Increase SLE availability compliance and decrease occurrences of incidents.
+
+Adoption Level 2.5
+=========================
+
+Vision and Steering: 
+
+The objective for Change Management is:
+	
+	Reduce the impact of changes to the organization.
+
+The Change Management objective supports the Service Management objectives of:
+	
+	-Reduce interruptions to IT services
+		-By reducing the number of incidents caused by changes ITS makes.
+	-Transition service changes to users with a focus on meeting expectations and minimizing impact
+		-By reducing the number of incidents caused by changes ITS makes.
+		-By communicating and coordinating changes.
+
+The lead measures for Change Management are:
+	
+	-Coordinate changes
+		-Target: 90% of comprehensive changes are scheduled at least 7 days in advance of the change implementation.
+		-Target: 60% of routine changes are scheduled at least 7 days in advance of the change implementation. 
+	-Communicate changes
+		-Status page filled out according to directions. Target: X% filled out according to directions.
+	-Process adoption level
+		-Target: 2.5
+			-Process: described with greater than 35% accuracy
+			-Roles: described with greater than 35% accuracy
+			-Objectives: described with greater than 35% accuracy
+			-Technology: described with greater than 35% accuracy
+
+The lag measures for Change Management are:
+	
+	-Percent of significant incidents caused by changes
+		-Target: less than 60%
+			-2013 measurement was 64%
+
 
 Process: 
 
@@ -16,20 +51,21 @@ Process:
 
 Roles: 
 
--Change Initiator
+	-Change Initiator
 
-	The person who initiates the process and begins the record. 
+		The person who initiates the process and begins the record. 
 	
--Change Assignee
-	The person assigned to do the work of the process record that is assigned to them. 
+	-Change Assignee
 	
--Change Task Assignee
+		The person assigned to do the work of the process record that is assigned to them. 
+	
+	-Change Task Assignee
 
--Change Management Process Owner
+	-Change Management Process Owner
 
--Assignment Group
+	-Assignment Group
 
--Assignment Group Owner
+	-Assignment Group Owner
 
 
 
